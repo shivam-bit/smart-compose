@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  padding: 25px;
+}
+
+#editor {
+  border: 1px solid #ccc;
+}
+
+#suggestions {
+  border: 1px solid #ccc;
+  border-width: 0px 1px 1px 1px;
+  color: #aaa;
+  padding: 5px 15px;
+  text-align: right;
+}
